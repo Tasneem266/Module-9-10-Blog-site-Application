@@ -1,0 +1,39 @@
+
+blog_project/
+├── manage.py
+├── db.sqlite3
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── blog_project/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   ├── wsgi.py
+│   └── asgi.py
+├── blog/
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── forms.py
+│   ├── views.py
+│   ├── urls.py
+│   └── migrations/
+│       └── __init__.py
+├── templates/
+│   ├── base.html
+│   ├── home.html
+│   ├── post_detail.html
+│   ├── post_form.html
+│   ├── post_confirm_delete.html
+│   ├── my_posts.html
+│   ├── profile.html
+│   ├── search_results.html
+│   ├── popular_posts.html
+│   └── register.html
+│   └── login.html
+├── static/
+│   └── css/
+│       └── style.css
+└── media/
