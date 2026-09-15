@@ -1,6 +1,6 @@
 # Blog Application
 
-A beginner-friendly Django blog application built and updated with a bit advanced features, under a single project.
+A Django based blog application built and updated with a bit advanced features, under a single project.
 
 ## Features
 
